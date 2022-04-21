@@ -1,0 +1,18 @@
+:root {
+    --animate-delay: 1s;
+}
+
+.animate__animated.animate__flipInX {
+    --animate-duration: 2s;
+    /* --animate-delay: 1.2s; */
+}
+.animate__animated.animate__flipInY {
+    --animate-duration: 2s;
+    --animate-delay: 1.3s;
+}
+
+
+.animate__animated.animate__fadeInUp {
+    --animate-duration: 2s;
+    --animate-delay: 1.3s;
+}
